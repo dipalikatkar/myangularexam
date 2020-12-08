@@ -10,4 +10,12 @@ lkmkmkkmkmklmkl
 export class AppComponent {
   title = 'mycomponentdemo';
 }
-ghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+ghhhhhhhhh
+
+xzxz;x
+xz;xxz;
+zxl''z
+x'zx'x'z
+zx'''xz
+zx'x''zx
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
