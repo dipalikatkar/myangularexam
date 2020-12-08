@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
-
+hjhhhj
+lkmkmkkmkmklmkl
+;lklkkl
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
